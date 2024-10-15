@@ -1,0 +1,1316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\communication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\kontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\kontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\util\\sistemskaoperacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\util\\sistemskaoperacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\frmserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B1F1C-5E13-4A3B-B193-7DC7CF5E398D}|Broker\\BrokerDb.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\broker\\brokerbazepodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B1F1C-5E13-4A3B-B193-7DC7CF5E398D}|Broker\\BrokerDb.csproj|solutionrelative:broker\\brokerbazepodataka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B1F1C-5E13-4A3B-B193-7DC7CF5E398D}|Broker\\BrokerDb.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\broker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B1F1C-5E13-4A3B-B193-7DC7CF5E398D}|Broker\\BrokerDb.csproj|solutionrelative:broker\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\klijentnit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\klijentnit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\zapamtiracun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\zapamtiracun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\kreirajracuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\kreirajracuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\pretraziracunecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\pretraziracunecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\racun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\racun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\pretraziracune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\pretraziracune.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|c:\\users\\nco\\source\\repos\\prodajaracunarasoftveri\\domen\\util\\racunkriterijumpretrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\util\\racunkriterijumpretrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\kreirajprenosniracunarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\kreirajprenosniracunarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\pretraziracuneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\pretraziracuneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\pretraziprenosneracunare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\pretraziprenosneracunare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\prenosniracunarkarakteristika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\prenosniracunarkarakteristika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\util\\kriterijumpretrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\util\\kriterijumpretrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\karakteristika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\karakteristika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|c:\\users\\nco\\source\\repos\\prodajaracunarasoftveri\\server\\sistemskeoperacije\\obrisiprenosniracunar .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\obrisiprenosniracunar .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\dodajprenosniracunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\dodajprenosniracunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\zapamtimarkuprenosnogracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\zapamtimarkuprenosnogracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\pretrazimarkeprenosnihracunara .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\pretrazimarkeprenosnihracunara .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\prijavise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\prijavise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\vratimarkuprenosnogracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\vratimarkuprenosnogracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\kreirajmarkucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\kreirajmarkucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\prenosniracunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\prenosniracunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\markaprenosnogracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\markaprenosnogracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\opstasistemskaoperacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\opstasistemskaoperacija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\entiteti\\stavkaracuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\entiteti\\stavkaracuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sessionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sessionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\baseformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\baseformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajprenosniracunarusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajprenosniracunarusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\utils\\formname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\utils\\formname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\pretrazimarkeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\pretrazimarkeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\pretraziprenosneracunareusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\pretraziprenosneracunareusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\detaljiracunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\detaljiracunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\detaljiprenosniracunarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\detaljiprenosniracunarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\storage\\sessionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\storage\\sessionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\util\\odgovor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\util\\odgovor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\domen\\util\\zahtev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13DAB69B-6384-4621-B12A-9D4F8E95F34F}|Domen\\Domen.csproj|solutionrelative:domen\\util\\zahtev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\utils\\nacinplacanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\utils\\nacinplacanja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\ucitajracun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\ucitajracun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\ucitajprenosniracunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\ucitajprenosniracunar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\vratilisturacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\vratilisturacuna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\vratilistuprenosnihracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\vratilistuprenosnihracunara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\vratilistumarki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\vratilistumarki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\sistemskeoperacije\\vratilistukarakteristika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\sistemskeoperacije\\vratilistukarakteristika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\servernit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\servernit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\detaljiracuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\detaljiracuncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajmarkuusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajmarkuusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajracunusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajracunusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\pretraziprenosneracunarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\pretraziprenosneracunarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\detaljiprenosniracunarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\detaljiprenosniracunarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B2B1F1C-5E13-4A3B-B193-7DC7CF5E398D}|Broker\\BrokerDb.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\broker\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2B1F1C-5E13-4A3B-B193-7DC7CF5E398D}|Broker\\BrokerDb.csproj|solutionrelative:broker\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\controllers\\pretrazimarkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\controllers\\pretrazimarkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\pretraziracuneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\pretraziracuneusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\pretraziprenosneracunareusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\pretraziprenosneracunareusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\pretrazimarkeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\pretrazimarkeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajracunusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajracunusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajprenosniracunarusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajprenosniracunarusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajmarkuusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajmarkuusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\detaljiprenosniracunarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\detaljiprenosniracunarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\detaljiracunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\detaljiracunform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F469073E-090E-43C7-9C31-560F7515D60D}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\klijent\\forms\\usercontrols\\kreirajmarkuusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A911E50-5A79-4840-8564-4AFE2986EF2E}|Klijent\\Klijent.csproj|solutionrelative:klijent\\forms\\usercontrols\\kreirajmarkuusercontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Server\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1613416671:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1139089979:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmServer.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\FrmServer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\FrmServer.cs",
+              "RelativeToolTip": "Server\\FrmServer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:51:26.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrokerBazePodataka.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Broker\\BrokerBazePodataka.cs",
+              "RelativeDocumentMoniker": "Broker\\BrokerBazePodataka.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Broker\\BrokerBazePodataka.cs",
+              "RelativeToolTip": "Broker\\BrokerBazePodataka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:25:29.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Broker\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Broker\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Broker\\DbConnection.cs",
+              "RelativeToolTip": "Broker\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:20:29.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kontroler.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Kontroler.cs",
+              "RelativeDocumentMoniker": "Server\\Kontroler.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Kontroler.cs",
+              "RelativeToolTip": "Server\\Kontroler.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAWwJAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:10:00.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemskaOperacija.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\SistemskaOperacija.cs",
+              "RelativeDocumentMoniker": "Domen\\Util\\SistemskaOperacija.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\SistemskaOperacija.cs",
+              "RelativeToolTip": "Domen\\Util\\SistemskaOperacija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:48:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZapamtiRacun.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\ZapamtiRacun.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ZapamtiRacun.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\ZapamtiRacun.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ZapamtiRacun.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:02:02.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Communication.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Communication.cs",
+              "RelativeDocumentMoniker": "Klijent\\Communication.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Communication.cs",
+              "RelativeToolTip": "Klijent\\Communication.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:20:59.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmServer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\FrmServer.cs",
+              "RelativeDocumentMoniker": "Server\\FrmServer.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\FrmServer.cs [Design]",
+              "RelativeToolTip": "Server\\FrmServer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:51:25.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\App.config",
+              "RelativeDocumentMoniker": "Server\\App.config",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\App.config",
+              "RelativeToolTip": "Server\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-07T09:22:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KlijentNit.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\KlijentNit.cs",
+              "RelativeDocumentMoniker": "Server\\KlijentNit.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\KlijentNit.cs",
+              "RelativeToolTip": "Server\\KlijentNit.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAtwDkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:23:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PretraziRacuneController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\PretraziRacuneController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\PretraziRacuneController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\PretraziRacuneController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\PretraziRacuneController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAIAwwEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:43:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KreirajRacunController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\KreirajRacunController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\KreirajRacunController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\KreirajRacunController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\KreirajRacunController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAMwH4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:42:41.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\Korisnik.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\Korisnik.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\Korisnik.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:38:35.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PretraziRacune.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PretraziRacune.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\PretraziRacune.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PretraziRacune.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\PretraziRacune.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:23.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Racun.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\Racun.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\Racun.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\Racun.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\Racun.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAxwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:38:38.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RacunKriterijumPretrage.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\RacunKriterijumPretrage.cs",
+              "RelativeDocumentMoniker": "Domen\\Util\\RacunKriterijumPretrage.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\RacunKriterijumPretrage.cs",
+              "RelativeToolTip": "Domen\\Util\\RacunKriterijumPretrage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:08:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KreirajPrenosniRacunarController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\KreirajPrenosniRacunarController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\KreirajPrenosniRacunarController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\KreirajPrenosniRacunarController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\KreirajPrenosniRacunarController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:42:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PretraziRacuneUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:54:53.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PretraziPrenosneRacunare.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PretraziPrenosneRacunare.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\PretraziPrenosneRacunare.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PretraziPrenosneRacunare.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\PretraziPrenosneRacunare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:23.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PrenosniRacunarKarakteristika.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\PrenosniRacunarKarakteristika.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\PrenosniRacunarKarakteristika.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\PrenosniRacunarKarakteristika.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\PrenosniRacunarKarakteristika.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:39:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KriterijumPretrage.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\KriterijumPretrage.cs",
+              "RelativeDocumentMoniker": "Domen\\Util\\KriterijumPretrage.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\KriterijumPretrage.cs",
+              "RelativeToolTip": "Domen\\Util\\KriterijumPretrage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:08:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Karakteristika.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\Karakteristika.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\Karakteristika.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\Karakteristika.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\Karakteristika.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:39:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ObrisiPrenosniRacunar .cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\ObrisiPrenosniRacunar .cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ObrisiPrenosniRacunar .cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\ObrisiPrenosniRacunar .cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ObrisiPrenosniRacunar .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:14.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ZapamtiMarkuPrenosnogRacunara.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\ZapamtiMarkuPrenosnogRacunara.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\ZapamtiMarkuPrenosnogRacunara.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\ZapamtiMarkuPrenosnogRacunara.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\ZapamtiMarkuPrenosnogRacunara.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DodajPrenosniRacunar.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\DodajPrenosniRacunar.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\DodajPrenosniRacunar.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\DodajPrenosniRacunar.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\DodajPrenosniRacunar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:00:29.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PretraziMarkePrenosnihRacunara .cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PretraziMarkePrenosnihRacunara .cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\PretraziMarkePrenosnihRacunara .cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PretraziMarkePrenosnihRacunara .cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\PretraziMarkePrenosnihRacunara .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:20.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrijaviSe.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PrijaviSe.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\PrijaviSe.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\PrijaviSe.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\PrijaviSe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:28.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VratiMarkuPrenosnogRacunara.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiMarkuPrenosnogRacunara.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\VratiMarkuPrenosnogRacunara.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiMarkuPrenosnogRacunara.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\VratiMarkuPrenosnogRacunara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KreirajMarkuController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\KreirajMarkuController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\KreirajMarkuController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\KreirajMarkuController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\KreirajMarkuController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:42:10.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PrenosniRacunar.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\PrenosniRacunar.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\PrenosniRacunar.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\PrenosniRacunar.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\PrenosniRacunar.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAA+wEIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:38:52.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OpstaSistemskaOperacija.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\OpstaSistemskaOperacija.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\OpstaSistemskaOperacija.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\OpstaSistemskaOperacija.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\OpstaSistemskaOperacija.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:00:37.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MarkaPrenosnogRacunara.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\MarkaPrenosnogRacunara.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\MarkaPrenosnogRacunara.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\MarkaPrenosnogRacunara.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\MarkaPrenosnogRacunara.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:39:00.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\IEntity.cs",
+              "RelativeDocumentMoniker": "Domen\\IEntity.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\IEntity.cs",
+              "RelativeToolTip": "Domen\\IEntity.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:37:01.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StavkaRacuna.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\StavkaRacuna.cs",
+              "RelativeDocumentMoniker": "Domen\\Entiteti\\StavkaRacuna.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Entiteti\\StavkaRacuna.cs",
+              "RelativeToolTip": "Domen\\Entiteti\\StavkaRacuna.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T08:38:44.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\MainController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAApwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:41:50.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:22:11.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Klijent\\Forms\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:06:54.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SessionStorage.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SessionStorage.cs",
+              "RelativeDocumentMoniker": "Server\\SessionStorage.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SessionStorage.cs",
+              "RelativeToolTip": "Server\\SessionStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T16:04:10.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:54:03.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\App.config",
+              "RelativeDocumentMoniker": "Klijent\\App.config",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\App.config",
+              "RelativeToolTip": "Klijent\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-13T14:08:10.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PretraziMarkeUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:55:53.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormName.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Utils\\FormName.cs",
+              "RelativeDocumentMoniker": "Klijent\\Utils\\FormName.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Utils\\FormName.cs",
+              "RelativeToolTip": "Klijent\\Utils\\FormName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:51:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KreirajPrenosniRacunarUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:00:35.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BaseFormController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\BaseFormController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\BaseFormController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\BaseFormController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\BaseFormController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:56:12.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DetaljiRacunForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiRacunForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\DetaljiRacunForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiRacunForm.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\DetaljiRacunForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:28:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PretraziPrenosneRacunareUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:55:23.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DetaljiPrenosniRacunarForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:22:19.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SessionStorage.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Storage\\SessionStorage.cs",
+              "RelativeDocumentMoniker": "Klijent\\Storage\\SessionStorage.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Storage\\SessionStorage.cs",
+              "RelativeToolTip": "Klijent\\Storage\\SessionStorage.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:24:56.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Odgovor.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\Odgovor.cs",
+              "RelativeDocumentMoniker": "Domen\\Util\\Odgovor.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\Odgovor.cs",
+              "RelativeToolTip": "Domen\\Util\\Odgovor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:09:19.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Zahtev.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\Zahtev.cs",
+              "RelativeDocumentMoniker": "Domen\\Util\\Zahtev.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Domen\\Util\\Zahtev.cs",
+              "RelativeToolTip": "Domen\\Util\\Zahtev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:09:32.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "NacinPlacanja.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Utils\\NacinPlacanja.cs",
+              "RelativeDocumentMoniker": "Klijent\\Utils\\NacinPlacanja.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Utils\\NacinPlacanja.cs",
+              "RelativeToolTip": "Klijent\\Utils\\NacinPlacanja.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:33:59.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UcitajRacun.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\UcitajRacun.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\UcitajRacun.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\UcitajRacun.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\UcitajRacun.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:35.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UcitajPrenosniRacunar.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\UcitajPrenosniRacunar.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\UcitajPrenosniRacunar.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\UcitajPrenosniRacunar.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\UcitajPrenosniRacunar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VratiListuRacuna.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuRacuna.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\VratiListuRacuna.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuRacuna.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\VratiListuRacuna.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:44.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "VratiListuPrenosnihRacunara.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuPrenosnihRacunara.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\VratiListuPrenosnihRacunara.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuPrenosnihRacunara.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\VratiListuPrenosnihRacunara.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:41.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VratiListuMarki.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuMarki.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\VratiListuMarki.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuMarki.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\VratiListuMarki.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:39.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "VratiListuKarakteristika.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuKarakteristika.cs",
+              "RelativeDocumentMoniker": "Server\\SistemskeOperacije\\VratiListuKarakteristika.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\SistemskeOperacije\\VratiListuKarakteristika.cs",
+              "RelativeToolTip": "Server\\SistemskeOperacije\\VratiListuKarakteristika.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:01:37.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ServerNit.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\ServerNit.cs",
+              "RelativeDocumentMoniker": "Server\\ServerNit.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\ServerNit.cs",
+              "RelativeToolTip": "Server\\ServerNit.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:24:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Klijent\\Forms\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:26:35.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DetaljiRacunController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\DetaljiRacunController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\DetaljiRacunController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\DetaljiRacunController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\DetaljiRacunController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:37:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "KreirajMarkuUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:55:40.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "KreirajRacunUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:54:37.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Klijent\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:54:17.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PretraziPrenosneRacunareController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\PretraziPrenosneRacunareController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\PretraziPrenosneRacunareController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\PretraziPrenosneRacunareController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\PretraziPrenosneRacunareController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAmwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:42:59.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DetaljiPrenosniRacunarController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\DetaljiPrenosniRacunarController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\DetaljiPrenosniRacunarController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\DetaljiPrenosniRacunarController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\DetaljiPrenosniRacunarController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:32:08.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Broker\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Broker\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Broker\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Broker\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T14:08:04.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PretraziMarkeController.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\PretraziMarkeController.cs",
+              "RelativeDocumentMoniker": "Klijent\\Controllers\\PretraziMarkeController.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Controllers\\PretraziMarkeController.cs",
+              "RelativeToolTip": "Klijent\\Controllers\\PretraziMarkeController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T08:42:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PretraziRacuneUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\PretraziRacuneUserControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:09:37.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PretraziPrenosneRacunareUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\PretraziPrenosneRacunareUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:09:33.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PretraziMarkeUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\PretraziMarkeUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:09:29.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "KreirajRacunUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajRacunUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:09:24.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "KreirajPrenosniRacunarUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajPrenosniRacunarUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:09:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "KreirajMarkuUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:14:48.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DetaljiPrenosniRacunarForm.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs",
+              "RelativeToolTip": "Klijent\\Forms\\DetaljiPrenosniRacunarForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:36:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DetaljiRacunForm.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiRacunForm.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\DetaljiRacunForm.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\DetaljiRacunForm.cs",
+              "RelativeToolTip": "Klijent\\Forms\\DetaljiRacunForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:30:53.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Program.cs",
+              "RelativeDocumentMoniker": "Klijent\\Program.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Program.cs",
+              "RelativeToolTip": "Klijent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T09:20:25.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T10:08:24.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "KreirajMarkuUserControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.Designer.cs",
+              "RelativeDocumentMoniker": "Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.Designer.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.Designer.cs",
+              "RelativeToolTip": "Klijent\\Forms\\UserControls\\KreirajMarkuUserControl.Designer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwEwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T10:16:57.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\nco\\source\\repos\\ProdajaRacunaraSoftveri\\Server\\Form1.cs [Design]",
+              "RelativeToolTip": "Server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:21:23.712Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

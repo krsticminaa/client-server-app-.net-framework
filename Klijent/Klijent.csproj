@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3A911E50-5A79-4840-8564-4AFE2986EF2E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Klijent</RootNamespace>
+    <AssemblyName>Klijent</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Communication.cs" />
+    <Compile Include="Controllers\BaseFormController.cs" />
+    <Compile Include="Controllers\DetaljiPrenosniRacunarController.cs" />
+    <Compile Include="Controllers\DetaljiRacunController.cs" />
+    <Compile Include="Controllers\KreirajMarkuController.cs" />
+    <Compile Include="Controllers\KreirajPrenosniRacunarController.cs" />
+    <Compile Include="Controllers\KreirajRacunController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\MainController.cs" />
+    <Compile Include="Controllers\PretraziMarkeController.cs" />
+    <Compile Include="Controllers\PretraziPrenosneRacunareController.cs" />
+    <Compile Include="Controllers\PretraziRacuneController.cs" />
+    <Compile Include="Forms\DetaljiPrenosniRacunarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DetaljiPrenosniRacunarForm.Designer.cs">
+      <DependentUpon>DetaljiPrenosniRacunarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DetaljiRacunForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DetaljiRacunForm.Designer.cs">
+      <DependentUpon>DetaljiRacunForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControls\KreirajMarkuUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControls\KreirajMarkuUserControl.Designer.cs">
+      <DependentUpon>KreirajMarkuUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControls\KreirajPrenosniRacunarUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControls\KreirajPrenosniRacunarUserControl.Designer.cs">
+      <DependentUpon>KreirajPrenosniRacunarUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControls\KreirajRacunUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControls\KreirajRacunUserControl.Designer.cs">
+      <DependentUpon>KreirajRacunUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControls\PretraziMarkeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControls\PretraziMarkeUserControl.Designer.cs">
+      <DependentUpon>PretraziMarkeUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControls\PretraziPrenosneRacunareUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControls\PretraziPrenosneRacunareUserControl.Designer.cs">
+      <DependentUpon>PretraziPrenosneRacunareUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UserControls\PretraziRacuneUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\UserControls\PretraziRacuneUserControl.Designer.cs">
+      <DependentUpon>PretraziRacuneUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Storage\SessionStorage.cs" />
+    <Compile Include="Utils\FormName.cs" />
+    <Compile Include="Utils\NacinPlacanja.cs" />
+    <EmbeddedResource Include="Forms\DetaljiPrenosniRacunarForm.resx">
+      <DependentUpon>DetaljiPrenosniRacunarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DetaljiRacunForm.resx">
+      <DependentUpon>DetaljiRacunForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControls\KreirajMarkuUserControl.resx">
+      <DependentUpon>KreirajMarkuUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControls\KreirajPrenosniRacunarUserControl.resx">
+      <DependentUpon>KreirajPrenosniRacunarUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControls\KreirajRacunUserControl.resx">
+      <DependentUpon>KreirajRacunUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControls\PretraziMarkeUserControl.resx">
+      <DependentUpon>PretraziMarkeUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControls\PretraziPrenosneRacunareUserControl.resx">
+      <DependentUpon>PretraziPrenosneRacunareUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserControls\PretraziRacuneUserControl.resx">
+      <DependentUpon>PretraziRacuneUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domen\Domen.csproj">
+      <Project>{13dab69b-6384-4621-b12a-9d4f8e95f34f}</Project>
+      <Name>Domen</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

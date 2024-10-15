@@ -1,0 +1,22 @@
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\obj\Debug\BrokerDb.csproj.AssemblyReference.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\obj\Debug\BrokerDb.csproj.CoreCompileInputs.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\obj\Debug\BrokerDb.csproj.Up2Date
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\obj\Debug\Broker.pdb
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\bin\Debug\Broker.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\bin\Debug\Broker.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\bin\Debug\Domen.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\bin\Debug\Domen.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\obj\Debug\BrokerDb.csproj.AssemblyReference.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\obj\Debug\BrokerDb.csproj.CoreCompileInputs.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\obj\Debug\BrokerDb.csproj.CopyComplete
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\obj\Debug\Broker.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Broker\obj\Debug\Broker.pdb

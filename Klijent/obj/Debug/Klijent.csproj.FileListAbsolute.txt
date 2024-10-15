@@ -1,0 +1,44 @@
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Klijent.exe
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Klijent.pdb
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.exe
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.pdb
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.MainForm.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.KreirajMarkuUserControl.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.KreirajPrenosniRacunarUserControl.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.KreirajRacunUserControl.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.PretraziMarkeUserControl.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.PretraziPrenosneRacunareUserControl.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.PretraziRacuneUserControl.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.LoginForm.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Domen.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Domen.pdb
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.Up2Date
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.DetaljiPrenosniRacunarForm.resources
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.DetaljiRacunForm.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Klijent.exe
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Klijent.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Domen.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\bin\Debug\Domen.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.DetaljiPrenosniRacunarForm.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.DetaljiRacunForm.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.LoginForm.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.MainForm.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.KreirajMarkuUserControl.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.KreirajPrenosniRacunarUserControl.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.KreirajRacunUserControl.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.PretraziMarkeUserControl.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.PretraziPrenosneRacunareUserControl.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Forms.UserControls.PretraziRacuneUserControl.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.exe
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Klijent\obj\Debug\Klijent.pdb

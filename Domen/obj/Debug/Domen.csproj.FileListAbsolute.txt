@@ -1,0 +1,12 @@
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.csproj.AssemblyReference.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\nco\source\repos\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Domen\bin\Debug\Domen.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Domen\bin\Debug\Domen.pdb
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.csproj.AssemblyReference.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.dll
+C:\Users\mina\Desktop\pssss\ProdajaRacunaraSoftveri (2)\ProdajaRacunaraSoftveri\Domen\obj\Debug\Domen.pdb
